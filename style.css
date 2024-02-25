@@ -1,0 +1,17 @@
+.h5
+{
+  font-size: 30px;
+}
+.h4
+{
+    font-size: 25px;
+}
+.copy_right_footer {
+    position: fixed;
+    color:white;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    line-height: 3;
+    text-align: center;
+  }
